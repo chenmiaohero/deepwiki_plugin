@@ -1,5 +1,7 @@
 # GitHub 到 DeepWiki 重定向插件
 
+[English](README.md) | [中文](README_zh.md)
+
 这是一个简单的浏览器扩展，兼容Edge和Chrome浏览器，点击插件按钮时将 GitHub 网址转换为 DeepWiki 网址。
 
 ## 功能

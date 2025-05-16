@@ -1,5 +1,7 @@
 # GitHub to DeepWiki Redirector Plugin
 
+[English](README.md) | [中文](README_zh.md)
+
 This is a simple browser extension, compatible with both Edge and Chrome browsers, that redirects GitHub URLs to DeepWiki URLs when the plugin button is clicked.
 
 ## Features
